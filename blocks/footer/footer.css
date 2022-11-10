@@ -22,5 +22,7 @@
   .footer {
     flex-direction: column;
     gap: 48px;
+    box-sizing: border-box;
+    padding-left: 16px;
   }
 }

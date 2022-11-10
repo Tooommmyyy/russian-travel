@@ -5,3 +5,9 @@
   flex-direction: column;
   margin: 0 auto;
 }
+
+@media screen and (max-width: 1152px) {
+  .lead {
+    max-width: 928px;
+  }
+}
