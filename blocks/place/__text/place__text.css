@@ -1,1 +1,5 @@
-
+@media screen and (max-width: 540px) {
+  .place__text {
+    margin: 0 auto;
+  }
+}
